@@ -1,8 +1,8 @@
-<h3>Hi! 👋 I'm Ha, a 18 y/o Student studying Information Technology</h3>
+<h3>Hi! 👋 I'm Viet Anh, a Student studying Information Technology</h3>
 <span>
-	<img src="https://img.shields.io/badge/24-STARS-8cecff?style=for-the-badge">
+	<img src="https://img.shields.io/badge/0-STARS-8cecff?style=for-the-badge">
 	<img src="https://img.shields.io/badge/7-REPOS-f2e174?style=for-the-badge">
-	<img src="https://img.shields.io/badge/6-FOLLOWERS-ff9eb6?style=for-the-badge">
+	<img src="https://img.shields.io/badge/1-FOLLOWERS-ff9eb6?style=for-the-badge">
 	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=vietanh0562000&countColor=#ff85c8">
 </span>
 
