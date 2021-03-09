@@ -8,12 +8,11 @@
 
 <hr>
 
-<h4>🧬 Languages I Can Speak:</h4>
+<h4>🧬 Languages:</h4>
 <span>
 	<img style="margin: 0 3px" width="64" src="assets/icons/js.png" title="JavaScript">
 	<img style="margin: 0 3px" width="64" src="assets/icons/html.png" title="Hypertext Markup Language">
 	<img style="margin: 0 3px" width="64" src="assets/icons/css.png" title="Cascading Style Sheets">
-	<img style="margin: 0 3px" width="64" src="assets/icons/php.png" title="Hypertext Preprocessor">
 	<img style="margin: 0 3px" width="64" src="assets/icons/cpp.png" title="C++">
 </span>
 
@@ -28,5 +27,5 @@
 <span style="clear: both">
 	<span align="left">⏰ <b>UPDATED:</b> 09/03/2021 01:20:22 PM (GMT+7)</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b> 0.2029s /w <a href="https://github.com/belivipro9x99/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b> 0.2029s /w <a href="https://github.com/vietanh0562000/actions" target="_blank">Github Actions</a></span>
 </span>
