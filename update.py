@@ -37,7 +37,7 @@ logStatus("Fetching User Data", 0)
 USER_DATA = None
 
 try:
-	USER_DATA = requests.get("https://api.github.com/users/belivipro9x99").json()
+	USER_DATA = requests.get("https://api.github.com/users/vietanh0562000").json()
 except json.JSONDecodeError as error:
 	logStatus("Parse User Data Failed: Malformed JSON Data", -1, True)
 	raise error
@@ -49,7 +49,7 @@ logStatus("Fetching Repos Data", 0)
 REPOS_DATA = None
 
 try:
-	REPOS_DATA = requests.get("https://api.github.com/users/belivipro9x99/repos").json()
+	REPOS_DATA = requests.get("https://api.github.com/users/vietanh0562000/repos").json()
 except json.JSONDecodeError as error:
 	logStatus("Parse Repos Data Failed: Malformed JSON Data", -1, True)
 	raise error
@@ -60,7 +60,7 @@ logStatus("Fetching Repos Data", 1, True)
 def updateTime():
 	now = datetime.now()
 	now = pytz.timezone("UTC").localize(now)
-	now = pytz.timezone("Asia/Ho_Chi_Minh").normalize(now)
+	now = pytz.timezone("Asia/Ha_Noi").normalize(now)
 
 	return now.strftime("%d/%m/%Y %I:%M:%S %p (GMT+7)")
 
