@@ -60,7 +60,7 @@ logStatus("Fetching Repos Data", 1, True)
 def updateTime():
 	now = datetime.now()
 	now = pytz.timezone("UTC").localize(now)
-	now = pytz.timezone("Asia/Ha_Noi").normalize(now)
+	now = pytz.timezone("Asia/Ho_Chi_Minh").normalize(now)
 
 	return now.strftime("%d/%m/%Y %I:%M:%S %p (GMT+7)")
 
