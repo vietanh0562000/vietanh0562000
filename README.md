@@ -2,7 +2,7 @@
 <span>
 	<img src="https://img.shields.io/badge/0-STARS-8cecff?style=for-the-badge">
 	<img src="https://img.shields.io/badge/14-REPOS-f2e174?style=for-the-badge">
-	<img src="https://img.shields.io/badge/2-FOLLOWERS-ff9eb6?style=for-the-badge">
+	<img src="https://img.shields.io/badge/3-FOLLOWERS-ff9eb6?style=for-the-badge">
 	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=vietanh0562000&countColor=#ff85c8">
 </span>
 
@@ -27,7 +27,7 @@
 <hr>
 
 <span style="clear: both">
-	<span align="left">⏰ <b>UPDATED:</b> 22/04/2021 06:54:59 PM (GMT+7)</span>
+	<span align="left">⏰ <b>UPDATED:</b> 22/04/2021 07:02:55 PM (GMT+7)</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b>  0.2553s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b>  0.2372s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
 </span>
