@@ -21,13 +21,13 @@
 |#|Name|Star|Size|Language|Last Update||
 |---|---|---:|---:|:---:|---|--|
 |1|**[DragonJump](https://github.com/vietanh0562000/DragonJump)**|0 ⭐|172.87 MB|C++|2021-08-03T08:09:40Z|0 ⚠  \|  0 🍴|
-|2|**[Giasu](https://github.com/vietanh0562000/Giasu)**|0 ⭐|14.06 MB|C++|2020-11-15T00:42:25Z|0 ⚠  \|  0 🍴|
+|2|**[Giasu](https://github.com/vietanh0562000/Giasu)**|0 ⭐|14.06 MB|C++|2021-10-16T13:55:26Z|0 ⚠  \|  0 🍴|
 |3|**[motherday](https://github.com/vietanh0562000/motherday)**|0 ⭐|12.81 MB|Vue|2021-04-01T00:46:51Z|1 ⚠  \|  0 🍴|
 
 <hr>
 
 <span style="clear: both">
-	<span align="left">⏰ <b>UPDATED:</b> 16/10/2021 08:49:00 PM (GMT+7)</span>
+	<span align="left">⏰ <b>UPDATED:</b> 16/10/2021 08:57:10 PM (GMT+7)</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b>  0.2907s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b>  0.2874s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
 </span>
