@@ -1,7 +1,7 @@
 <h3>Hi! 👋 I'm Viet Anh, a Student studying Information Technology</h3>
 <span>
 	<img src="https://img.shields.io/badge/0-STARS-8cecff?style=for-the-badge">
-	<img src="https://img.shields.io/badge/18-REPOS-f2e174?style=for-the-badge">
+	<img src="https://img.shields.io/badge/19-REPOS-f2e174?style=for-the-badge">
 	<img src="https://img.shields.io/badge/5-FOLLOWERS-ff9eb6?style=for-the-badge">
 	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=vietanh0562000&countColor=#ff85c8">
 </span>
@@ -27,7 +27,7 @@
 <hr>
 
 <span style="clear: both">
-	<span align="left">⏰ <b>UPDATED:</b> 12/07/2022 04:58:46 PM (GMT+7)</span>
+	<span align="left">⏰ <b>UPDATED:</b> 12/07/2022 05:23:05 PM (GMT+7)</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b>  0.3696s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b>  0.5011s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
 </span>
