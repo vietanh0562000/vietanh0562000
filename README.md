@@ -1,7 +1,7 @@
 <h3>Hi! 👋 I'm Viet Anh, a Student studying Information Technology</h3>
 <span>
 	<img src="https://img.shields.io/badge/0-STARS-8cecff?style=for-the-badge">
-	<img src="https://img.shields.io/badge/22-REPOS-f2e174?style=for-the-badge">
+	<img src="https://img.shields.io/badge/23-REPOS-f2e174?style=for-the-badge">
 	<img src="https://img.shields.io/badge/6-FOLLOWERS-ff9eb6?style=for-the-badge">
 	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=vietanh0562000&countColor=#ff85c8">
 </span>
@@ -22,12 +22,12 @@
 |---|---|---:|---:|:---:|---|--|
 |1|**[200Baby](https://github.com/vietanh0562000/200Baby)**|0 ⭐|0.0 MB|None|2022-08-29T01:30:43Z|0 ⚠  \|  0 🍴|
 |2|**[Breakout](https://github.com/vietanh0562000/Breakout)**|0 ⭐|6.16 MB|Lua|2021-10-27T07:58:18Z|0 ⚠  \|  0 🍴|
-|3|**[DragonJump](https://github.com/vietanh0562000/DragonJump)**|0 ⭐|172.87 MB|C++|2022-06-07T03:03:04Z|0 ⚠  \|  0 🍴|
+|3|**[CubeMerge](https://github.com/vietanh0562000/CubeMerge)**|0 ⭐|0.0 MB|None|2025-05-15T13:01:36Z|0 ⚠  \|  0 🍴|
 
 <hr>
 
 <span style="clear: both">
-	<span align="left">⏰ <b>UPDATED:</b> 15/05/2025 07:49:11 PM (GMT+7)</span>
+	<span align="left">⏰ <b>UPDATED:</b> 15/05/2025 08:05:21 PM (GMT+7)</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b>  0.2483s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b>  0.3434s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
 </span>
