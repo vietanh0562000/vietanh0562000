@@ -1,4 +1,4 @@
-# Hi there, I'm Viet Anh(Simon) 👋
+# Hi there, I'm Viet Anh(Simon)
 
 ## About Me
 - I’m currently working on: Software Development
